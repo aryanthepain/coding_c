@@ -2,3 +2,4 @@
 *.exe
 coding_c.code-workspace
 .vscode/
+.gitignore
